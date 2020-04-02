@@ -1,2 +1,2 @@
 # krutipandya.github.io
-personal website
+personal website krutipandya.github.io
